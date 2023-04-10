@@ -1,0 +1,2 @@
+Multicursors --> Alt Click/ Ctrl Alt Down/ Ctrl Alt Up
+Choose all occurences of an element --> Ctrl Shift L
