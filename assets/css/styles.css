@@ -65,7 +65,6 @@ a {
 .navbar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 
 .navbar ul {
@@ -78,6 +77,10 @@ a {
   font-size: 1.6rem;
   color: #4f5361;
   padding: 8px 14px;
+}
+
+.fixed-header .navbar .user-id {
+  margin-left: auto;
 }
 
 .user-id :first-child {
