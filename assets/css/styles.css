@@ -43,6 +43,9 @@ a {
 
 /* ================================================== hero-wrap ================================================= */
 .fixed-header {
+  display: flex;
+  align-items: center;
+  height: 90px;
   background: #e6f0ff;
   padding-top: 26px;
   position: sticky;
@@ -62,9 +65,7 @@ a {
 .navbar {
   display: flex;
   align-items: center;
-  flex: 1;
   justify-content: space-between;
-  padding: 12px 0;
 }
 
 .navbar ul {
